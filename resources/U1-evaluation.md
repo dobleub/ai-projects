@@ -1,4 +1,7 @@
 # IA Evaluaciones
+Evaluaciones: 60
+Ejercicio:    20
+Tarea:        20
 
 ## Unidad 1
 1. Define Inteligencia Artificial
