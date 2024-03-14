@@ -28,3 +28,6 @@
 10. ¿Qué es un MultiAgente?
 11. Define un grafo
 12. Define backtracking en tus propias palabras
+
+----
+TAREA: Leer Inteligencia Artificial con Aplicaciones a la Ingenieria, pg 12 a pg 21 (Algoritmos geneticos)
