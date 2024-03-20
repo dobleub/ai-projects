@@ -27,10 +27,11 @@ Tarea:        20
 8. Construye la siguiente tabla de verdad:
     - **p ↔ ¬p**
     - **( p ˄ q ) ˅ r**
-9. ¿Qué es un Agente Inteligente?
+  9. ¿Qué es un Agente Inteligente?
 10. ¿Qué es un MultiAgente?
 11. Define un grafo
 12. Define backtracking en tus propias palabras
 13. Entregar el problema de las 8 reinas si aun no lo han entregado, el límite de entrega es el día de hoy a las 11:59 pm
 ----
 TAREA: Leer Inteligencia Artificial con Aplicaciones a la Ingenieria, pg 12 a pg 21 (Algoritmos geneticos)
+----
